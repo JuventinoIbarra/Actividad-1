@@ -30,5 +30,11 @@ body {
     color: #ffffff;
     font-size: 2rem;
     letter-spacing: 1px;
-    animation: fadeIn 1.5s ease-in-out;
+}
+
+/* tTexto */
+#texto{
+    color: #ffffff;
+    font-size: 2rem;
+    letter-spacing: 1px;
 }
